@@ -21,7 +21,7 @@ GraphQL server with Graphene-Python
  
  4. Activate your Virtual Enviroment (differnt for Linux/Windows) 
    ```sh
-   source venv/bin/activate
+      source venv/bin/activate
    ```
    
 5. Install the requirements listed in requirements.txt
