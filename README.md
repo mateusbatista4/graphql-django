@@ -21,7 +21,7 @@ GraphQL server with Graphene-Python
  
  4. Activate your Virtual Enviroment (differnt for Linux/Windows) 
    ```sh
-      source venv/bin/activate
+   source venv/bin/activate
    ```
    
 5. Install the requirements listed in requirements.txt
@@ -38,12 +38,12 @@ Use this space to show useful examples of how to make some graphQL queryes
    python3 manage.py runserver
    ```
    
-2.On your browser access the 'graphlq/' endpoint
+2. On your browser access the 'graphlq/' endpoint
    ```sh
    http://localhost:8000/graphql
    ```
    
- 3.Make your queryes, as the folloewd example
+3. Make your queryes, as the folloewd example
   ```
    query {
       allMovies {
